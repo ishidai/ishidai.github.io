@@ -6,7 +6,6 @@
 
  <img src="http://7xv1uv.com1.z0.glb.clouddn.com/QQ%E5%9B%BE%E7%89%8720171015214653.jpg" width = "150" height = "200" alt="图片名称"/>
  
-  .
  <img src="http://7xv1uv.com1.z0.glb.clouddn.com/QQ%E5%9B%BE%E7%89%8720171015214658.jpg" width = "150" height = "200" alt="图片名称"/>
 
 **vue2.0+node.js+MongoDB全栈打造商城**
