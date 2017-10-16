@@ -4,7 +4,7 @@
 
 打赏作者鼓励他提供更多更好的资源给大家分享,大小随意。
 
- <img src="http://7xv1uv.com1.z0.glb.clouddn.com/QQ%E5%9B%BE%E7%89%8720171015214653.jpg" width = "150" height = "200" alt="图片名称" align=left />
+ <img src="http://7xv1uv.com1.z0.glb.clouddn.com/QQ%E5%9B%BE%E7%89%8720171015214653.jpg" width = "150" height = "200" alt="图片名称"/>
  
   .
  <img src="http://7xv1uv.com1.z0.glb.clouddn.com/QQ%E5%9B%BE%E7%89%8720171015214658.jpg" width = "150" height = "200" alt="图片名称"/>
@@ -34,7 +34,7 @@
 链接: https://pan.baidu.com/s/1c2rSDJq 密码: 7aa1
 
 
-**《探索ECMAScript6》公开课 ** 
+**探索ECMAScript6公开课 ** 
 链接: https://pan.baidu.com/s/1bpo6WyF 密码: q2f7
 
 **vue.js-饿了吗全套**
@@ -96,8 +96,8 @@
 
 **版本控制入门--搬进Github**
 链接: https://pan.baidu.com/s/1sk92G49 密码: tn8c
-**
-快乐的sublime编辑器**
+
+**快乐的sublime编辑器**
 链接: https://pan.baidu.com/s/1o8qmpRG 密码: q6tg
 
 **前端开发工具技巧介绍-DW篇**
@@ -105,7 +105,6 @@
 
 **前端开发工具SublimeTex实用技巧**
 链接: https://pan.baidu.com/s/1qXVj2tI 密码: mx6p
-
 
 **Git 版本控制**
 链接: https://pan.baidu.com/s/1jHZz4V0 密码: k2wf
